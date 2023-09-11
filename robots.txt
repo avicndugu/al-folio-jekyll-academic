@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://avicndugu.github.io/al-folio-jekyll-academic/sitemap.xml
+Sitemap: https://dev.avicndugu.com/al-folio-jekyll-academic/sitemap.xml
